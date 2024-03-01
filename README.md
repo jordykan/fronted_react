@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-Este proyecto representa un backend desarrollado en Node.js que utiliza SQL Server como base de datos. 
+Este proyecto representa un fronted desarrollado en React, Typescript y Vite
 
 # Configuración 👨‍💻
 1. Clona este repositorio: `git clone (https://github.com/jordykan/fronted_react.git`
